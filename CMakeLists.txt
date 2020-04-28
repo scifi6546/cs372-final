@@ -7,8 +7,8 @@ include_directories(src)
 include_directories(tests)
 
 add_executable(TEST
-        src/cps.cpp
-        src/cps.hpp
+        src/secret_agent.cpp
+        src/auth_proxy.cpp
         tests/catch.hpp
-        tests/cps_test_cases.cpp
+        tests/secret_tests.cpp
         tests/cps_test_main.cpp)
