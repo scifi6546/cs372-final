@@ -1,2 +1,2 @@
 # CS372 Final
-Used Group CPS repo as base framework. The Repo uses the proxy design pattern to implement a *very secure* authentication scheme for customer data. The CustomerData class is the base class used to store data nad the AuthenticationProxy controls access to the class. Unit tests are in tests/secret_tests.cpp
+Used Group CPS repo as base framework. The Repo uses the proxy design pattern to implement a *very secure* authentication scheme for customer data. The CustomerData class is the base class used to store data nad the AuthenticationProxy controls access to the class. Unit tests are in tests/secret_tests.cpp.
